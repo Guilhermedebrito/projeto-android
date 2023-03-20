@@ -88,13 +88,7 @@ main {
 main h1{ 
   color: var(--cor5);
   font-family: var(--font-android);
-  padding: 20px;
-}
-
-main h3 { 
-  color: var(--cor5);
-  font-family: var(--font-android);
-  padding: 20px;
+  padding: 40px;
 }
 
 main p {
@@ -102,6 +96,12 @@ main p {
   text-align: justify;
   text-indent: 25px;
   line-height: 25px;
+}
+
+main h3 { 
+  color: var(--cor5);
+  font-family: var(--font-android);
+  padding: 40px;
 }
 
 strong {
@@ -131,6 +131,7 @@ main .bugdroid {
   max-width: 350px;
   display: block;
   margin: auto;
+  padding: 30px;
 }
 
 div.video{
